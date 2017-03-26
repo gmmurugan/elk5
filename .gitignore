@@ -1,0 +1,4 @@
+.vagrant
+.bundle
+.kitchen
+Gemfile.lock
